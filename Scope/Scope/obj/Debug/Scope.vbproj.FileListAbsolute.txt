@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Scope\Scope\obj\Debug\Scope.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Scope\Scope\obj\Debug\Scope.Form1.resources
+C:\Users\STEM\source\repos\Scope\Scope\obj\Debug\Scope.Resources.resources
+C:\Users\STEM\source\repos\Scope\Scope\obj\Debug\Scope.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Scope\Scope\obj\Debug\Scope.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Scope\Scope\bin\Debug\Scope.exe.config
+C:\Users\STEM\source\repos\Scope\Scope\bin\Debug\Scope.exe
+C:\Users\STEM\source\repos\Scope\Scope\bin\Debug\Scope.pdb
+C:\Users\STEM\source\repos\Scope\Scope\bin\Debug\Scope.xml
+C:\Users\STEM\source\repos\Scope\Scope\obj\Debug\Scope.exe
+C:\Users\STEM\source\repos\Scope\Scope\obj\Debug\Scope.xml
+C:\Users\STEM\source\repos\Scope\Scope\obj\Debug\Scope.pdb

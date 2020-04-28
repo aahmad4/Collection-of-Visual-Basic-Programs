@@ -1,0 +1,14 @@
+C:\Users\STEM\source\repos\CP Project\CP Project\bin\Debug\CP Project.exe.config
+C:\Users\STEM\source\repos\CP Project\CP Project\bin\Debug\CP Project.exe
+C:\Users\STEM\source\repos\CP Project\CP Project\bin\Debug\CP Project.pdb
+C:\Users\STEM\source\repos\CP Project\CP Project\bin\Debug\CP Project.xml
+C:\Users\STEM\source\repos\CP Project\CP Project\obj\Debug\CP Project.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\CP Project\CP Project\obj\Debug\CP_Project.Form1.resources
+C:\Users\STEM\source\repos\CP Project\CP Project\obj\Debug\CP_Project.Resources.resources
+C:\Users\STEM\source\repos\CP Project\CP Project\obj\Debug\CP Project.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\CP Project\CP Project\obj\Debug\CP Project.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\CP Project\CP Project\obj\Debug\CP Project.exe
+C:\Users\STEM\source\repos\CP Project\CP Project\obj\Debug\CP Project.xml
+C:\Users\STEM\source\repos\CP Project\CP Project\obj\Debug\CP Project.pdb
+C:\Users\STEM\source\repos\CP Project\CP Project\obj\Debug\CP_Project.Form2.resources
+C:\Users\STEM\source\repos\CP Project\CP Project\obj\Debug\CP_Project.Resource1.resources

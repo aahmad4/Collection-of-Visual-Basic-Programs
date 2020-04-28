@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\bin\Debug\ConcertTickets.exe.config
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\bin\Debug\ConcertTickets.exe
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\bin\Debug\ConcertTickets.pdb
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\bin\Debug\ConcertTickets.xml
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\obj\Debug\ConcertTickets.Form1.resources
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\obj\Debug\ConcertTickets.Resources.resources
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\obj\Debug\ConcertTickets.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\obj\Debug\ConcertTickets.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\obj\Debug\ConcertTickets.exe
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\obj\Debug\ConcertTickets.xml
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\obj\Debug\ConcertTickets.pdb
+C:\Users\STEM\source\repos\ConcertTickets\ConcertTickets\obj\Debug\ConcertTickets.vbprojAssemblyReference.cache

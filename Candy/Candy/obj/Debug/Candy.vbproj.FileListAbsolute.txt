@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Candy\Candy\obj\Debug\Candy.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Candy\Candy\obj\Debug\Candy.Form1.resources
+C:\Users\STEM\source\repos\Candy\Candy\obj\Debug\Candy.Resources.resources
+C:\Users\STEM\source\repos\Candy\Candy\obj\Debug\Candy.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Candy\Candy\obj\Debug\Candy.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Candy\Candy\bin\Debug\Candy.exe.config
+C:\Users\STEM\source\repos\Candy\Candy\bin\Debug\Candy.exe
+C:\Users\STEM\source\repos\Candy\Candy\bin\Debug\Candy.pdb
+C:\Users\STEM\source\repos\Candy\Candy\bin\Debug\Candy.xml
+C:\Users\STEM\source\repos\Candy\Candy\obj\Debug\Candy.exe
+C:\Users\STEM\source\repos\Candy\Candy\obj\Debug\Candy.xml
+C:\Users\STEM\source\repos\Candy\Candy\obj\Debug\Candy.pdb

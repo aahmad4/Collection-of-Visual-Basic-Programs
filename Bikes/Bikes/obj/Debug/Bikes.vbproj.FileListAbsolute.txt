@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Bikes\Bikes\bin\Debug\Bikes.exe.config
+C:\Users\STEM\source\repos\Bikes\Bikes\bin\Debug\Bikes.exe
+C:\Users\STEM\source\repos\Bikes\Bikes\bin\Debug\Bikes.pdb
+C:\Users\STEM\source\repos\Bikes\Bikes\bin\Debug\Bikes.xml
+C:\Users\STEM\source\repos\Bikes\Bikes\obj\Debug\Bikes.Form1.resources
+C:\Users\STEM\source\repos\Bikes\Bikes\obj\Debug\Bikes.Resources.resources
+C:\Users\STEM\source\repos\Bikes\Bikes\obj\Debug\Bikes.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Bikes\Bikes\obj\Debug\Bikes.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Bikes\Bikes\obj\Debug\Bikes.exe
+C:\Users\STEM\source\repos\Bikes\Bikes\obj\Debug\Bikes.xml
+C:\Users\STEM\source\repos\Bikes\Bikes\obj\Debug\Bikes.pdb
+C:\Users\STEM\source\repos\Bikes\Bikes\obj\Debug\Bikes.vbprojAssemblyReference.cache

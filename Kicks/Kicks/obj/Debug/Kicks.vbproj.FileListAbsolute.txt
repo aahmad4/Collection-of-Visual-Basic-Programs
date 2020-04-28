@@ -1,0 +1,13 @@
+C:\Users\STEM\source\repos\Kicks\Kicks\bin\Debug\Kicks.exe.config
+C:\Users\STEM\source\repos\Kicks\Kicks\bin\Debug\Kicks.exe
+C:\Users\STEM\source\repos\Kicks\Kicks\bin\Debug\Kicks.pdb
+C:\Users\STEM\source\repos\Kicks\Kicks\bin\Debug\Kicks.xml
+C:\Users\STEM\source\repos\Kicks\Kicks\obj\Debug\Kicks.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Kicks\Kicks\obj\Debug\Kicks.Form1.resources
+C:\Users\STEM\source\repos\Kicks\Kicks\obj\Debug\Kicks.Resources.resources
+C:\Users\STEM\source\repos\Kicks\Kicks\obj\Debug\Kicks.Resource1.resources
+C:\Users\STEM\source\repos\Kicks\Kicks\obj\Debug\Kicks.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Kicks\Kicks\obj\Debug\Kicks.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Kicks\Kicks\obj\Debug\Kicks.exe
+C:\Users\STEM\source\repos\Kicks\Kicks\obj\Debug\Kicks.xml
+C:\Users\STEM\source\repos\Kicks\Kicks\obj\Debug\Kicks.pdb

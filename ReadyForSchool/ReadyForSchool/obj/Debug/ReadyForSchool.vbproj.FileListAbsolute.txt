@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\bin\Debug\ReadyForSchool.exe.config
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\bin\Debug\ReadyForSchool.exe
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\bin\Debug\ReadyForSchool.pdb
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\bin\Debug\ReadyForSchool.xml
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\obj\Debug\ReadyForSchool.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\obj\Debug\ReadyForSchool.Form1.resources
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\obj\Debug\ReadyForSchool.Resources.resources
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\obj\Debug\ReadyForSchool.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\obj\Debug\ReadyForSchool.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\obj\Debug\ReadyForSchool.exe
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\obj\Debug\ReadyForSchool.xml
+C:\Users\STEM\source\repos\ReadyForSchool\ReadyForSchool\obj\Debug\ReadyForSchool.pdb

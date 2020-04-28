@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\NCVacation\NCVacation\bin\Debug\NCVacation.exe.config
+C:\Users\STEM\source\repos\NCVacation\NCVacation\bin\Debug\NCVacation.exe
+C:\Users\STEM\source\repos\NCVacation\NCVacation\bin\Debug\NCVacation.pdb
+C:\Users\STEM\source\repos\NCVacation\NCVacation\bin\Debug\NCVacation.xml
+C:\Users\STEM\source\repos\NCVacation\NCVacation\obj\Debug\NCVacation.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\NCVacation\NCVacation\obj\Debug\NCVacation.Form1.resources
+C:\Users\STEM\source\repos\NCVacation\NCVacation\obj\Debug\NCVacation.Resources.resources
+C:\Users\STEM\source\repos\NCVacation\NCVacation\obj\Debug\NCVacation.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\NCVacation\NCVacation\obj\Debug\NCVacation.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\NCVacation\NCVacation\obj\Debug\NCVacation.exe
+C:\Users\STEM\source\repos\NCVacation\NCVacation\obj\Debug\NCVacation.xml
+C:\Users\STEM\source\repos\NCVacation\NCVacation\obj\Debug\NCVacation.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConcertTickets", "ConcertTickets\ConcertTickets.vbproj", "{1E9D47FB-BA0A-421F-AD52-655229EB4400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E9D47FB-BA0A-421F-AD52-655229EB4400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9D47FB-BA0A-421F-AD52-655229EB4400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9D47FB-BA0A-421F-AD52-655229EB4400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9D47FB-BA0A-421F-AD52-655229EB4400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C24F8B89-8BB2-49E0-949A-620362E9E26E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\STEM\source\repos\Bands\Bands\bin\Debug\Bands.exe.config
+C:\Users\STEM\source\repos\Bands\Bands\bin\Debug\Bands.exe
+C:\Users\STEM\source\repos\Bands\Bands\bin\Debug\Bands.pdb
+C:\Users\STEM\source\repos\Bands\Bands\bin\Debug\Bands.xml
+C:\Users\STEM\source\repos\Bands\Bands\obj\Debug\Bands.Form1.resources
+C:\Users\STEM\source\repos\Bands\Bands\obj\Debug\Bands.Resources.resources
+C:\Users\STEM\source\repos\Bands\Bands\obj\Debug\Bands.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Bands\Bands\obj\Debug\Bands.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Bands\Bands\obj\Debug\Bands.exe
+C:\Users\STEM\source\repos\Bands\Bands\obj\Debug\Bands.xml
+C:\Users\STEM\source\repos\Bands\Bands\obj\Debug\Bands.pdb
+C:\Users\STEM\source\repos\Bands\Bands\obj\Debug\Bands.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Bands\Bands\obj\Debug\Bands.About.resources

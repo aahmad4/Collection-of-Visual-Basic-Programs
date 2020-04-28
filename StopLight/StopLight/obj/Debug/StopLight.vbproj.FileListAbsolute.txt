@@ -1,0 +1,13 @@
+C:\Users\STEM\source\repos\StopLight\StopLight\bin\Debug\StopLight.exe.config
+C:\Users\STEM\source\repos\StopLight\StopLight\bin\Debug\StopLight.exe
+C:\Users\STEM\source\repos\StopLight\StopLight\bin\Debug\StopLight.pdb
+C:\Users\STEM\source\repos\StopLight\StopLight\bin\Debug\StopLight.xml
+C:\Users\STEM\source\repos\StopLight\StopLight\obj\Debug\StopLight.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\StopLight\StopLight\obj\Debug\StopLight.Form1.resources
+C:\Users\STEM\source\repos\StopLight\StopLight\obj\Debug\StopLight.Resources.resources
+C:\Users\STEM\source\repos\StopLight\StopLight\obj\Debug\StopLight.Resource1.resources
+C:\Users\STEM\source\repos\StopLight\StopLight\obj\Debug\StopLight.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\StopLight\StopLight\obj\Debug\StopLight.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\StopLight\StopLight\obj\Debug\StopLight.exe
+C:\Users\STEM\source\repos\StopLight\StopLight\obj\Debug\StopLight.xml
+C:\Users\STEM\source\repos\StopLight\StopLight\obj\Debug\StopLight.pdb

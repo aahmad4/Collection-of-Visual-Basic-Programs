@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Counting\Counting\bin\Debug\Counting.exe.config
+C:\Users\STEM\source\repos\Counting\Counting\bin\Debug\Counting.exe
+C:\Users\STEM\source\repos\Counting\Counting\bin\Debug\Counting.pdb
+C:\Users\STEM\source\repos\Counting\Counting\bin\Debug\Counting.xml
+C:\Users\STEM\source\repos\Counting\Counting\obj\Debug\Counting.Form1.resources
+C:\Users\STEM\source\repos\Counting\Counting\obj\Debug\Counting.Resources.resources
+C:\Users\STEM\source\repos\Counting\Counting\obj\Debug\Counting.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Counting\Counting\obj\Debug\Counting.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Counting\Counting\obj\Debug\Counting.exe
+C:\Users\STEM\source\repos\Counting\Counting\obj\Debug\Counting.xml
+C:\Users\STEM\source\repos\Counting\Counting\obj\Debug\Counting.pdb
+C:\Users\STEM\source\repos\Counting\Counting\obj\Debug\Counting.vbprojAssemblyReference.cache

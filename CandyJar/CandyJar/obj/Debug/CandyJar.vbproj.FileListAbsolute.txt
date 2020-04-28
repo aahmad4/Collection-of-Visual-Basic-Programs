@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\CandyJar\CandyJar\bin\Debug\CandyJar.exe.config
+C:\Users\STEM\source\repos\CandyJar\CandyJar\bin\Debug\CandyJar.exe
+C:\Users\STEM\source\repos\CandyJar\CandyJar\bin\Debug\CandyJar.pdb
+C:\Users\STEM\source\repos\CandyJar\CandyJar\bin\Debug\CandyJar.xml
+C:\Users\STEM\source\repos\CandyJar\CandyJar\obj\Debug\CandyJar.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\CandyJar\CandyJar\obj\Debug\CandyJar.Form1.resources
+C:\Users\STEM\source\repos\CandyJar\CandyJar\obj\Debug\CandyJar.Resources.resources
+C:\Users\STEM\source\repos\CandyJar\CandyJar\obj\Debug\CandyJar.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\CandyJar\CandyJar\obj\Debug\CandyJar.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\CandyJar\CandyJar\obj\Debug\CandyJar.exe
+C:\Users\STEM\source\repos\CandyJar\CandyJar\obj\Debug\CandyJar.xml
+C:\Users\STEM\source\repos\CandyJar\CandyJar\obj\Debug\CandyJar.pdb

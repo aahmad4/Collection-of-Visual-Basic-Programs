@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Math\Math\bin\Debug\Math.exe.config
+C:\Users\STEM\source\repos\Math\Math\bin\Debug\Math.exe
+C:\Users\STEM\source\repos\Math\Math\bin\Debug\Math.pdb
+C:\Users\STEM\source\repos\Math\Math\bin\Debug\Math.xml
+C:\Users\STEM\source\repos\Math\Math\obj\Debug\Math.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Math\Math\obj\Debug\Math.Form1.resources
+C:\Users\STEM\source\repos\Math\Math\obj\Debug\Math.Resources.resources
+C:\Users\STEM\source\repos\Math\Math\obj\Debug\Math.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Math\Math\obj\Debug\Math.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Math\Math\obj\Debug\Math.exe
+C:\Users\STEM\source\repos\Math\Math\obj\Debug\Math.xml
+C:\Users\STEM\source\repos\Math\Math\obj\Debug\Math.pdb

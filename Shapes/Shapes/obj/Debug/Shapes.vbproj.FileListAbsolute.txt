@@ -1,0 +1,14 @@
+C:\Users\STEM\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\STEM\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\STEM\source\repos\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\STEM\source\repos\Shapes\Shapes\bin\Debug\Shapes.xml
+C:\Users\STEM\source\repos\Shapes\Shapes\obj\Debug\Shapes.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Shapes\Shapes\obj\Debug\Shapes.Form1.resources
+C:\Users\STEM\source\repos\Shapes\Shapes\obj\Debug\Shapes.Resources.resources
+C:\Users\STEM\source\repos\Shapes\Shapes\obj\Debug\Shapes.Resource1.resources
+C:\Users\STEM\source\repos\Shapes\Shapes\obj\Debug\Shapes.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Shapes\Shapes\obj\Debug\Shapes.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\STEM\source\repos\Shapes\Shapes\obj\Debug\Shapes.xml
+C:\Users\STEM\source\repos\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\STEM\source\repos\Shapes\Shapes\obj\Debug\Shapes.Resource2.resources

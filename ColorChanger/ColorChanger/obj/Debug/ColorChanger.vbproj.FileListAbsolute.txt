@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\bin\Debug\ColorChanger.exe.config
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\bin\Debug\ColorChanger.exe
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\bin\Debug\ColorChanger.pdb
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\bin\Debug\ColorChanger.xml
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\obj\Debug\ColorChanger.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\obj\Debug\ColorChanger.Form1.resources
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\obj\Debug\ColorChanger.Resources.resources
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\obj\Debug\ColorChanger.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\obj\Debug\ColorChanger.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\obj\Debug\ColorChanger.exe
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\obj\Debug\ColorChanger.xml
+C:\Users\STEM\source\repos\ColorChanger\ColorChanger\obj\Debug\ColorChanger.pdb

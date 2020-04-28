@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\STEM\source\repos\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\STEM\source\repos\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\STEM\source\repos\Hello\Hello\bin\Debug\Hello.xml
+C:\Users\STEM\source\repos\Hello\Hello\obj\Debug\Hello.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Hello\Hello\obj\Debug\Hello.Resources.resources
+C:\Users\STEM\source\repos\Hello\Hello\obj\Debug\Hello.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Hello\Hello\obj\Debug\Hello.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\STEM\source\repos\Hello\Hello\obj\Debug\Hello.xml
+C:\Users\STEM\source\repos\Hello\Hello\obj\Debug\Hello.pdb
+C:\Users\STEM\source\repos\Hello\Hello\obj\Debug\Hello.grpChoices2.resources

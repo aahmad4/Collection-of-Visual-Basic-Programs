@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\MyInitials\MyInitials\bin\Debug\MyInitials.exe.config
+C:\Users\STEM\source\repos\MyInitials\MyInitials\bin\Debug\MyInitials.exe
+C:\Users\STEM\source\repos\MyInitials\MyInitials\bin\Debug\MyInitials.pdb
+C:\Users\STEM\source\repos\MyInitials\MyInitials\bin\Debug\MyInitials.xml
+C:\Users\STEM\source\repos\MyInitials\MyInitials\obj\Debug\MyInitials.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\MyInitials\MyInitials\obj\Debug\MyInitials.Form1.resources
+C:\Users\STEM\source\repos\MyInitials\MyInitials\obj\Debug\MyInitials.Resources.resources
+C:\Users\STEM\source\repos\MyInitials\MyInitials\obj\Debug\MyInitials.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\MyInitials\MyInitials\obj\Debug\MyInitials.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\MyInitials\MyInitials\obj\Debug\MyInitials.exe
+C:\Users\STEM\source\repos\MyInitials\MyInitials\obj\Debug\MyInitials.xml
+C:\Users\STEM\source\repos\MyInitials\MyInitials\obj\Debug\MyInitials.pdb

@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\MyGrades\MyGrades\bin\Debug\MyGrades.exe.config
+C:\Users\STEM\source\repos\MyGrades\MyGrades\bin\Debug\MyGrades.exe
+C:\Users\STEM\source\repos\MyGrades\MyGrades\bin\Debug\MyGrades.pdb
+C:\Users\STEM\source\repos\MyGrades\MyGrades\bin\Debug\MyGrades.xml
+C:\Users\STEM\source\repos\MyGrades\MyGrades\obj\Debug\MyGrades.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\MyGrades\MyGrades\obj\Debug\MyGrades.Form1.resources
+C:\Users\STEM\source\repos\MyGrades\MyGrades\obj\Debug\MyGrades.Resources.resources
+C:\Users\STEM\source\repos\MyGrades\MyGrades\obj\Debug\MyGrades.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\MyGrades\MyGrades\obj\Debug\MyGrades.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\MyGrades\MyGrades\obj\Debug\MyGrades.exe
+C:\Users\STEM\source\repos\MyGrades\MyGrades\obj\Debug\MyGrades.xml
+C:\Users\STEM\source\repos\MyGrades\MyGrades\obj\Debug\MyGrades.pdb

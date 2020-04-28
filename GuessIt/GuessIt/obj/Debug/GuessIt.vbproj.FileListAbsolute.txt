@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\GuessIt\GuessIt\bin\Debug\GuessIt.exe.config
+C:\Users\STEM\source\repos\GuessIt\GuessIt\bin\Debug\GuessIt.exe
+C:\Users\STEM\source\repos\GuessIt\GuessIt\bin\Debug\GuessIt.pdb
+C:\Users\STEM\source\repos\GuessIt\GuessIt\bin\Debug\GuessIt.xml
+C:\Users\STEM\source\repos\GuessIt\GuessIt\obj\Debug\GuessIt.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\GuessIt\GuessIt\obj\Debug\GuessIt.Form1.resources
+C:\Users\STEM\source\repos\GuessIt\GuessIt\obj\Debug\GuessIt.Resources.resources
+C:\Users\STEM\source\repos\GuessIt\GuessIt\obj\Debug\GuessIt.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\GuessIt\GuessIt\obj\Debug\GuessIt.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\GuessIt\GuessIt\obj\Debug\GuessIt.exe
+C:\Users\STEM\source\repos\GuessIt\GuessIt\obj\Debug\GuessIt.xml
+C:\Users\STEM\source\repos\GuessIt\GuessIt\obj\Debug\GuessIt.pdb

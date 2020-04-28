@@ -1,0 +1,13 @@
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\bin\Debug\Cookie Clicker.exe.config
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\bin\Debug\Cookie Clicker.exe
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\bin\Debug\Cookie Clicker.pdb
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\bin\Debug\Cookie Clicker.xml
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\Cookie Clicker.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\Cookie_Clicker.Form1.resources
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\Cookie_Clicker.Resources.resources
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\Cookie Clicker.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\Cookie Clicker.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\Cookie Clicker.exe
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\Cookie Clicker.xml
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\Cookie Clicker.pdb
+C:\Users\STEM\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\Cookie_Clicker.Form2.resources

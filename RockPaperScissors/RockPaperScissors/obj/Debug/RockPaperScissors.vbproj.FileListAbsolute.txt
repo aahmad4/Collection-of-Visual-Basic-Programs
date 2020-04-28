@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Resources.resources
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.xml
+C:\Users\STEM\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Reasons\Reasons\bin\Debug\Reasons.exe.config
+C:\Users\STEM\source\repos\Reasons\Reasons\bin\Debug\Reasons.exe
+C:\Users\STEM\source\repos\Reasons\Reasons\bin\Debug\Reasons.pdb
+C:\Users\STEM\source\repos\Reasons\Reasons\bin\Debug\Reasons.xml
+C:\Users\STEM\source\repos\Reasons\Reasons\obj\Debug\Reasons.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Reasons\Reasons\obj\Debug\Reasons.Form1.resources
+C:\Users\STEM\source\repos\Reasons\Reasons\obj\Debug\Reasons.Resources.resources
+C:\Users\STEM\source\repos\Reasons\Reasons\obj\Debug\Reasons.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Reasons\Reasons\obj\Debug\Reasons.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Reasons\Reasons\obj\Debug\Reasons.exe
+C:\Users\STEM\source\repos\Reasons\Reasons\obj\Debug\Reasons.xml
+C:\Users\STEM\source\repos\Reasons\Reasons\obj\Debug\Reasons.pdb

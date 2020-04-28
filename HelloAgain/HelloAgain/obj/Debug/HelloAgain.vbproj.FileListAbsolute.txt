@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\bin\Debug\HelloAgain.exe.config
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\bin\Debug\HelloAgain.exe
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\bin\Debug\HelloAgain.pdb
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\bin\Debug\HelloAgain.xml
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\obj\Debug\HelloAgain.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\obj\Debug\HelloAgain.Form1.resources
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\obj\Debug\HelloAgain.Resources.resources
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\obj\Debug\HelloAgain.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\obj\Debug\HelloAgain.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\obj\Debug\HelloAgain.exe
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\obj\Debug\HelloAgain.xml
+C:\Users\STEM\source\repos\HelloAgain\HelloAgain\obj\Debug\HelloAgain.pdb

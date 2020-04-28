@@ -1,0 +1,13 @@
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\bin\Debug\birthdayPresents.exe.config
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\bin\Debug\birthdayPresents.exe
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\bin\Debug\birthdayPresents.pdb
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\bin\Debug\birthdayPresents.xml
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\obj\Debug\birthdayPresents.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\obj\Debug\birthdayPresents.Form1.resources
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\obj\Debug\birthdayPresents.Form2.resources
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\obj\Debug\birthdayPresents.Resources.resources
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\obj\Debug\birthdayPresents.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\obj\Debug\birthdayPresents.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\obj\Debug\birthdayPresents.exe
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\obj\Debug\birthdayPresents.xml
+C:\Users\STEM\source\repos\birthdayPresents\birthdayPresents\obj\Debug\birthdayPresents.pdb

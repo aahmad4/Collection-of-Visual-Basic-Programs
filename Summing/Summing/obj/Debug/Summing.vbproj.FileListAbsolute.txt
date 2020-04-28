@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Summing\Summing\bin\Debug\Summing.exe.config
+C:\Users\STEM\source\repos\Summing\Summing\bin\Debug\Summing.exe
+C:\Users\STEM\source\repos\Summing\Summing\bin\Debug\Summing.pdb
+C:\Users\STEM\source\repos\Summing\Summing\bin\Debug\Summing.xml
+C:\Users\STEM\source\repos\Summing\Summing\obj\Debug\Summing.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Summing\Summing\obj\Debug\Summing.Form1.resources
+C:\Users\STEM\source\repos\Summing\Summing\obj\Debug\Summing.Resources.resources
+C:\Users\STEM\source\repos\Summing\Summing\obj\Debug\Summing.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Summing\Summing\obj\Debug\Summing.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Summing\Summing\obj\Debug\Summing.exe
+C:\Users\STEM\source\repos\Summing\Summing\obj\Debug\Summing.xml
+C:\Users\STEM\source\repos\Summing\Summing\obj\Debug\Summing.pdb

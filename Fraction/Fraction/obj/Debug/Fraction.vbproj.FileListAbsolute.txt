@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Fraction\Fraction\bin\Debug\Fraction.exe.config
+C:\Users\STEM\source\repos\Fraction\Fraction\bin\Debug\Fraction.exe
+C:\Users\STEM\source\repos\Fraction\Fraction\bin\Debug\Fraction.pdb
+C:\Users\STEM\source\repos\Fraction\Fraction\bin\Debug\Fraction.xml
+C:\Users\STEM\source\repos\Fraction\Fraction\obj\Debug\Fraction.Form1.resources
+C:\Users\STEM\source\repos\Fraction\Fraction\obj\Debug\Fraction.Resources.resources
+C:\Users\STEM\source\repos\Fraction\Fraction\obj\Debug\Fraction.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Fraction\Fraction\obj\Debug\Fraction.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Fraction\Fraction\obj\Debug\Fraction.exe
+C:\Users\STEM\source\repos\Fraction\Fraction\obj\Debug\Fraction.xml
+C:\Users\STEM\source\repos\Fraction\Fraction\obj\Debug\Fraction.pdb
+C:\Users\STEM\source\repos\Fraction\Fraction\obj\Debug\Fraction.vbprojAssemblyReference.cache

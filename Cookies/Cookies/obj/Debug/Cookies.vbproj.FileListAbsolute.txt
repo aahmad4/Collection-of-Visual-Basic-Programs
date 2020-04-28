@@ -1,0 +1,11 @@
+C:\Users\STEM\source\repos\Cookies\Cookies\bin\Debug\Cookies.exe.config
+C:\Users\STEM\source\repos\Cookies\Cookies\bin\Debug\Cookies.exe
+C:\Users\STEM\source\repos\Cookies\Cookies\bin\Debug\Cookies.pdb
+C:\Users\STEM\source\repos\Cookies\Cookies\bin\Debug\Cookies.xml
+C:\Users\STEM\source\repos\Cookies\Cookies\obj\Debug\Cookies.Form1.resources
+C:\Users\STEM\source\repos\Cookies\Cookies\obj\Debug\Cookies.Resources.resources
+C:\Users\STEM\source\repos\Cookies\Cookies\obj\Debug\Cookies.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Cookies\Cookies\obj\Debug\Cookies.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Cookies\Cookies\obj\Debug\Cookies.exe
+C:\Users\STEM\source\repos\Cookies\Cookies\obj\Debug\Cookies.xml
+C:\Users\STEM\source\repos\Cookies\Cookies\obj\Debug\Cookies.pdb

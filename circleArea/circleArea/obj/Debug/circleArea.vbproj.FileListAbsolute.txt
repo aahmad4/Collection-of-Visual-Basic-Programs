@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\circleArea\circleArea\bin\Debug\circleArea.exe.config
+C:\Users\STEM\source\repos\circleArea\circleArea\bin\Debug\circleArea.exe
+C:\Users\STEM\source\repos\circleArea\circleArea\bin\Debug\circleArea.pdb
+C:\Users\STEM\source\repos\circleArea\circleArea\bin\Debug\circleArea.xml
+C:\Users\STEM\source\repos\circleArea\circleArea\obj\Debug\circleArea.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\circleArea\circleArea\obj\Debug\circleArea.Form1.resources
+C:\Users\STEM\source\repos\circleArea\circleArea\obj\Debug\circleArea.Resources.resources
+C:\Users\STEM\source\repos\circleArea\circleArea\obj\Debug\circleArea.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\circleArea\circleArea\obj\Debug\circleArea.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\circleArea\circleArea\obj\Debug\circleArea.exe
+C:\Users\STEM\source\repos\circleArea\circleArea\obj\Debug\circleArea.xml
+C:\Users\STEM\source\repos\circleArea\circleArea\obj\Debug\circleArea.pdb

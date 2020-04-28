@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\donutDelight\donutDelight\bin\Debug\donutDelight.exe.config
+C:\Users\STEM\source\repos\donutDelight\donutDelight\bin\Debug\donutDelight.exe
+C:\Users\STEM\source\repos\donutDelight\donutDelight\bin\Debug\donutDelight.pdb
+C:\Users\STEM\source\repos\donutDelight\donutDelight\bin\Debug\donutDelight.xml
+C:\Users\STEM\source\repos\donutDelight\donutDelight\obj\Debug\donutDelight.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\donutDelight\donutDelight\obj\Debug\donutDelight.Form1.resources
+C:\Users\STEM\source\repos\donutDelight\donutDelight\obj\Debug\donutDelight.Resources.resources
+C:\Users\STEM\source\repos\donutDelight\donutDelight\obj\Debug\donutDelight.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\donutDelight\donutDelight\obj\Debug\donutDelight.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\donutDelight\donutDelight\obj\Debug\donutDelight.exe
+C:\Users\STEM\source\repos\donutDelight\donutDelight\obj\Debug\donutDelight.xml
+C:\Users\STEM\source\repos\donutDelight\donutDelight\obj\Debug\donutDelight.pdb

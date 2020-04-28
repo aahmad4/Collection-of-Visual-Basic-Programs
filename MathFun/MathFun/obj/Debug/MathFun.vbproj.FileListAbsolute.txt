@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\MathFun\MathFun\bin\Debug\MathFun.exe.config
+C:\Users\STEM\source\repos\MathFun\MathFun\bin\Debug\MathFun.exe
+C:\Users\STEM\source\repos\MathFun\MathFun\bin\Debug\MathFun.pdb
+C:\Users\STEM\source\repos\MathFun\MathFun\bin\Debug\MathFun.xml
+C:\Users\STEM\source\repos\MathFun\MathFun\obj\Debug\MathFun.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\MathFun\MathFun\obj\Debug\MathFun.Form1.resources
+C:\Users\STEM\source\repos\MathFun\MathFun\obj\Debug\MathFun.Resources.resources
+C:\Users\STEM\source\repos\MathFun\MathFun\obj\Debug\MathFun.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\MathFun\MathFun\obj\Debug\MathFun.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\MathFun\MathFun\obj\Debug\MathFun.exe
+C:\Users\STEM\source\repos\MathFun\MathFun\obj\Debug\MathFun.xml
+C:\Users\STEM\source\repos\MathFun\MathFun\obj\Debug\MathFun.pdb

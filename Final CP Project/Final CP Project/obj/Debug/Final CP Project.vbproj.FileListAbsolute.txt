@@ -1,0 +1,14 @@
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\obj\Debug\Final_CP_Project.Form1.resources
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\obj\Debug\Final_CP_Project.Form2.resources
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\obj\Debug\Final_CP_Project.Resources.resources
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\obj\Debug\Final_CP_Project.Resource1.resources
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\obj\Debug\Final CP Project.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\obj\Debug\Final CP Project.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\bin\Debug\Final CP Project.exe.config
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\bin\Debug\Final CP Project.exe
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\bin\Debug\Final CP Project.pdb
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\bin\Debug\Final CP Project.xml
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\obj\Debug\Final CP Project.exe
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\obj\Debug\Final CP Project.xml
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\obj\Debug\Final CP Project.pdb
+C:\Users\STEM\source\repos\Final CP Project\Final CP Project\obj\Debug\Final CP Project.vbprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\CellPhone\CellPhone\bin\Debug\CellPhone.exe.config
+C:\Users\STEM\source\repos\CellPhone\CellPhone\bin\Debug\CellPhone.exe
+C:\Users\STEM\source\repos\CellPhone\CellPhone\bin\Debug\CellPhone.pdb
+C:\Users\STEM\source\repos\CellPhone\CellPhone\bin\Debug\CellPhone.xml
+C:\Users\STEM\source\repos\CellPhone\CellPhone\obj\Debug\CellPhone.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\CellPhone\CellPhone\obj\Debug\CellPhone.Form1.resources
+C:\Users\STEM\source\repos\CellPhone\CellPhone\obj\Debug\CellPhone.Resources.resources
+C:\Users\STEM\source\repos\CellPhone\CellPhone\obj\Debug\CellPhone.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\CellPhone\CellPhone\obj\Debug\CellPhone.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\CellPhone\CellPhone\obj\Debug\CellPhone.exe
+C:\Users\STEM\source\repos\CellPhone\CellPhone\obj\Debug\CellPhone.xml
+C:\Users\STEM\source\repos\CellPhone\CellPhone\obj\Debug\CellPhone.pdb

@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\bin\Debug\shakespeareanInsults.exe.config
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\bin\Debug\shakespeareanInsults.exe
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\bin\Debug\shakespeareanInsults.pdb
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\bin\Debug\shakespeareanInsults.xml
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\obj\Debug\shakespeareanInsults.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\obj\Debug\shakespeareanInsults.Form1.resources
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\obj\Debug\shakespeareanInsults.Resources.resources
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\obj\Debug\shakespeareanInsults.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\obj\Debug\shakespeareanInsults.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\obj\Debug\shakespeareanInsults.exe
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\obj\Debug\shakespeareanInsults.xml
+C:\Users\STEM\source\repos\shakespeareanInsults\shakespeareanInsults\obj\Debug\shakespeareanInsults.pdb

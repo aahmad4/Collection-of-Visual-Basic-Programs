@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\RelayRace\RelayRace\bin\Debug\RelayRace.exe.config
+C:\Users\STEM\source\repos\RelayRace\RelayRace\bin\Debug\RelayRace.exe
+C:\Users\STEM\source\repos\RelayRace\RelayRace\bin\Debug\RelayRace.pdb
+C:\Users\STEM\source\repos\RelayRace\RelayRace\bin\Debug\RelayRace.xml
+C:\Users\STEM\source\repos\RelayRace\RelayRace\obj\Debug\RelayRace.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\RelayRace\RelayRace\obj\Debug\RelayRace.Form1.resources
+C:\Users\STEM\source\repos\RelayRace\RelayRace\obj\Debug\RelayRace.Resources.resources
+C:\Users\STEM\source\repos\RelayRace\RelayRace\obj\Debug\RelayRace.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\RelayRace\RelayRace\obj\Debug\RelayRace.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\RelayRace\RelayRace\obj\Debug\RelayRace.exe
+C:\Users\STEM\source\repos\RelayRace\RelayRace\obj\Debug\RelayRace.xml
+C:\Users\STEM\source\repos\RelayRace\RelayRace\obj\Debug\RelayRace.pdb

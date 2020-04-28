@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\bin\Debug\WhichIsFirst.exe.config
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\bin\Debug\WhichIsFirst.exe
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\bin\Debug\WhichIsFirst.pdb
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\bin\Debug\WhichIsFirst.xml
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\obj\Debug\WhichIsFirst.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\obj\Debug\WhichIsFirst.Form1.resources
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\obj\Debug\WhichIsFirst.Resources.resources
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\obj\Debug\WhichIsFirst.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\obj\Debug\WhichIsFirst.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\obj\Debug\WhichIsFirst.exe
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\obj\Debug\WhichIsFirst.xml
+C:\Users\STEM\source\repos\WhichIsFirst\WhichIsFirst\obj\Debug\WhichIsFirst.pdb

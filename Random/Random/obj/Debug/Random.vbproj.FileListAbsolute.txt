@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Random\Random\bin\Debug\Random.exe.config
+C:\Users\STEM\source\repos\Random\Random\bin\Debug\Random.exe
+C:\Users\STEM\source\repos\Random\Random\bin\Debug\Random.pdb
+C:\Users\STEM\source\repos\Random\Random\bin\Debug\Random.xml
+C:\Users\STEM\source\repos\Random\Random\obj\Debug\Random.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Random\Random\obj\Debug\Random.Form1.resources
+C:\Users\STEM\source\repos\Random\Random\obj\Debug\Random.Resources.resources
+C:\Users\STEM\source\repos\Random\Random\obj\Debug\Random.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Random\Random\obj\Debug\Random.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Random\Random\obj\Debug\Random.exe
+C:\Users\STEM\source\repos\Random\Random\obj\Debug\Random.xml
+C:\Users\STEM\source\repos\Random\Random\obj\Debug\Random.pdb

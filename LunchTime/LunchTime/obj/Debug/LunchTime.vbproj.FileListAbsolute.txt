@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\LunchTime\LunchTime\bin\Debug\LunchTime.exe.config
+C:\Users\STEM\source\repos\LunchTime\LunchTime\bin\Debug\LunchTime.exe
+C:\Users\STEM\source\repos\LunchTime\LunchTime\bin\Debug\LunchTime.pdb
+C:\Users\STEM\source\repos\LunchTime\LunchTime\bin\Debug\LunchTime.xml
+C:\Users\STEM\source\repos\LunchTime\LunchTime\obj\Debug\LunchTime.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\LunchTime\LunchTime\obj\Debug\LunchTime.Form1.resources
+C:\Users\STEM\source\repos\LunchTime\LunchTime\obj\Debug\LunchTime.Resources.resources
+C:\Users\STEM\source\repos\LunchTime\LunchTime\obj\Debug\LunchTime.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\LunchTime\LunchTime\obj\Debug\LunchTime.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\LunchTime\LunchTime\obj\Debug\LunchTime.exe
+C:\Users\STEM\source\repos\LunchTime\LunchTime\obj\Debug\LunchTime.xml
+C:\Users\STEM\source\repos\LunchTime\LunchTime\obj\Debug\LunchTime.pdb

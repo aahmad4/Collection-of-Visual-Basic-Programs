@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\bin\Debug\WorldWar2.exe.config
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\bin\Debug\WorldWar2.exe
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\bin\Debug\WorldWar2.pdb
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\bin\Debug\WorldWar2.xml
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.Form1.resources
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.Resources.resources
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.exe
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.xml
+C:\Users\STEM\source\repos\WorldWar2\WorldWar2\obj\Debug\WorldWar2.pdb

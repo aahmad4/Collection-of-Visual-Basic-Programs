@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\areaSquare\areaSquare\bin\Debug\areaSquare.exe.config
+C:\Users\STEM\source\repos\areaSquare\areaSquare\bin\Debug\areaSquare.exe
+C:\Users\STEM\source\repos\areaSquare\areaSquare\bin\Debug\areaSquare.pdb
+C:\Users\STEM\source\repos\areaSquare\areaSquare\bin\Debug\areaSquare.xml
+C:\Users\STEM\source\repos\areaSquare\areaSquare\obj\Debug\areaSquare.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\areaSquare\areaSquare\obj\Debug\areaSquare.Form1.resources
+C:\Users\STEM\source\repos\areaSquare\areaSquare\obj\Debug\areaSquare.Resources.resources
+C:\Users\STEM\source\repos\areaSquare\areaSquare\obj\Debug\areaSquare.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\areaSquare\areaSquare\obj\Debug\areaSquare.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\areaSquare\areaSquare\obj\Debug\areaSquare.exe
+C:\Users\STEM\source\repos\areaSquare\areaSquare\obj\Debug\areaSquare.xml
+C:\Users\STEM\source\repos\areaSquare\areaSquare\obj\Debug\areaSquare.pdb

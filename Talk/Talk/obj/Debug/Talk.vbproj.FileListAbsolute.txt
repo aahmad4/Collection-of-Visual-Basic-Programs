@@ -1,0 +1,13 @@
+C:\Users\STEM\source\repos\Talk\Talk\bin\Debug\Talk.exe.config
+C:\Users\STEM\source\repos\Talk\Talk\bin\Debug\Talk.exe
+C:\Users\STEM\source\repos\Talk\Talk\bin\Debug\Talk.pdb
+C:\Users\STEM\source\repos\Talk\Talk\bin\Debug\Talk.xml
+C:\Users\STEM\source\repos\Talk\Talk\obj\Debug\Talk.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Talk\Talk\obj\Debug\Talk.Form1.resources
+C:\Users\STEM\source\repos\Talk\Talk\obj\Debug\Talk.Resources.resources
+C:\Users\STEM\source\repos\Talk\Talk\obj\Debug\Talk.Resource1.resources
+C:\Users\STEM\source\repos\Talk\Talk\obj\Debug\Talk.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Talk\Talk\obj\Debug\Talk.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Talk\Talk\obj\Debug\Talk.exe
+C:\Users\STEM\source\repos\Talk\Talk\obj\Debug\Talk.xml
+C:\Users\STEM\source\repos\Talk\Talk\obj\Debug\Talk.pdb

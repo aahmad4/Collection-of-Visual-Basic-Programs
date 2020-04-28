@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Games\Games\bin\Debug\Games.exe.config
+C:\Users\STEM\source\repos\Games\Games\bin\Debug\Games.exe
+C:\Users\STEM\source\repos\Games\Games\bin\Debug\Games.pdb
+C:\Users\STEM\source\repos\Games\Games\bin\Debug\Games.xml
+C:\Users\STEM\source\repos\Games\Games\obj\Debug\Games.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Games\Games\obj\Debug\Games.Form1.resources
+C:\Users\STEM\source\repos\Games\Games\obj\Debug\Games.Resources.resources
+C:\Users\STEM\source\repos\Games\Games\obj\Debug\Games.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Games\Games\obj\Debug\Games.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Games\Games\obj\Debug\Games.exe
+C:\Users\STEM\source\repos\Games\Games\obj\Debug\Games.xml
+C:\Users\STEM\source\repos\Games\Games\obj\Debug\Games.pdb

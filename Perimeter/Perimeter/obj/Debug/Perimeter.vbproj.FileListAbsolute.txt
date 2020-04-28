@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Perimeter\Perimeter\bin\Debug\Perimeter.exe.config
+C:\Users\STEM\source\repos\Perimeter\Perimeter\bin\Debug\Perimeter.exe
+C:\Users\STEM\source\repos\Perimeter\Perimeter\bin\Debug\Perimeter.pdb
+C:\Users\STEM\source\repos\Perimeter\Perimeter\bin\Debug\Perimeter.xml
+C:\Users\STEM\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.Form1.resources
+C:\Users\STEM\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.Resources.resources
+C:\Users\STEM\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.exe
+C:\Users\STEM\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.xml
+C:\Users\STEM\source\repos\Perimeter\Perimeter\obj\Debug\Perimeter.pdb

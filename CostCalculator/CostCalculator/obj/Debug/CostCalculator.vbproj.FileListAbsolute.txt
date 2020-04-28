@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\bin\Debug\CostCalculator.exe.config
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\bin\Debug\CostCalculator.exe
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\bin\Debug\CostCalculator.pdb
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\bin\Debug\CostCalculator.xml
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\obj\Debug\CostCalculator.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\obj\Debug\CostCalculator.Form1.resources
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\obj\Debug\CostCalculator.Resources.resources
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\obj\Debug\CostCalculator.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\obj\Debug\CostCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\obj\Debug\CostCalculator.exe
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\obj\Debug\CostCalculator.xml
+C:\Users\STEM\source\repos\CostCalculator\CostCalculator\obj\Debug\CostCalculator.pdb

@@ -1,0 +1,12 @@
+C:\Users\STEM\source\repos\Mints\Mints\bin\Debug\Mints.exe.config
+C:\Users\STEM\source\repos\Mints\Mints\bin\Debug\Mints.exe
+C:\Users\STEM\source\repos\Mints\Mints\bin\Debug\Mints.pdb
+C:\Users\STEM\source\repos\Mints\Mints\bin\Debug\Mints.xml
+C:\Users\STEM\source\repos\Mints\Mints\obj\Debug\Mints.vbprojAssemblyReference.cache
+C:\Users\STEM\source\repos\Mints\Mints\obj\Debug\Mints.Form1.resources
+C:\Users\STEM\source\repos\Mints\Mints\obj\Debug\Mints.Resources.resources
+C:\Users\STEM\source\repos\Mints\Mints\obj\Debug\Mints.vbproj.GenerateResource.cache
+C:\Users\STEM\source\repos\Mints\Mints\obj\Debug\Mints.vbproj.CoreCompileInputs.cache
+C:\Users\STEM\source\repos\Mints\Mints\obj\Debug\Mints.exe
+C:\Users\STEM\source\repos\Mints\Mints\obj\Debug\Mints.xml
+C:\Users\STEM\source\repos\Mints\Mints\obj\Debug\Mints.pdb
